@@ -1,0 +1,4921 @@
+[
+  {
+    "payout": 1.81,
+    "direction": "down",
+    "id": "#11450"
+  },
+  {
+    "direction": "up",
+    "id": "#11451"
+  },
+  {
+    "direction": "down",
+    "id": "#11452"
+  },
+  {
+    "direction": "down",
+    "id": "#11453"
+  },
+  {
+    "direction": "down",
+    "id": "#11454"
+  },
+  {
+    "direction": "down",
+    "id": "#11455"
+  },
+  {
+    "direction": "down",
+    "id": "#11456"
+  },
+  {
+    "direction": "up",
+    "id": "#11457"
+  },
+  {
+    "direction": "up",
+    "id": "#11458",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11459",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11460",
+    "lcss": true
+  },
+  {
+    "payout": 1.95,
+    "direction": "down",
+    "id": "#11461",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11462",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11463",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11464",
+    "lcss": true
+  },
+  {
+    "payout": 2.08,
+    "direction": "up",
+    "id": "#11465",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11466",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11467",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11468",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11469",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11470"
+  },
+  {
+    "direction": "up",
+    "id": "#11471"
+  },
+  {
+    "direction": "up",
+    "id": "#11472"
+  },
+  {
+    "direction": "up",
+    "id": "#11473"
+  },
+  {
+    "direction": "up",
+    "id": "#11474"
+  },
+  {
+    "direction": "down",
+    "id": "#11475"
+  },
+  {
+    "direction": "down",
+    "id": "#11476"
+  },
+  {
+    "direction": "down",
+    "id": "#11477"
+  },
+  {
+    "direction": "down",
+    "id": "#11478"
+  },
+  {
+    "direction": "down",
+    "id": "#11479"
+  },
+  {
+    "direction": "up",
+    "id": "#11480"
+  },
+  {
+    "direction": "up",
+    "id": "#11481"
+  },
+  {
+    "direction": "down",
+    "id": "#11482"
+  },
+  {
+    "direction": "up",
+    "id": "#11483"
+  },
+  {
+    "direction": "up",
+    "id": "#11484"
+  },
+  {
+    "direction": "up",
+    "id": "#11485"
+  },
+  {
+    "direction": "up",
+    "id": "#11486"
+  },
+  {
+    "direction": "up",
+    "id": "#11487"
+  },
+  {
+    "payout": 2.24,
+    "direction": "up",
+    "id": "#11488"
+  },
+  {
+    "direction": "up",
+    "id": "#11489"
+  },
+  {
+    "direction": "down",
+    "id": "#11490"
+  },
+  {
+    "direction": "down",
+    "id": "#11491"
+  },
+  {
+    "direction": "down",
+    "id": "#11492"
+  },
+  {
+    "direction": "down",
+    "id": "#11493"
+  },
+  {
+    "direction": "down",
+    "id": "#11494"
+  },
+  {
+    "direction": "up",
+    "id": "#11495"
+  },
+  {
+    "payout": 1.56,
+    "direction": "down",
+    "id": "#11496"
+  },
+  {
+    "direction": "up",
+    "id": "#11497"
+  },
+  {
+    "direction": "up",
+    "id": "#11498"
+  },
+  {
+    "direction": "up",
+    "id": "#11499"
+  },
+  {
+    "direction": "up",
+    "id": "#11500"
+  },
+  {
+    "direction": "down",
+    "id": "#11501"
+  },
+  {
+    "direction": "up",
+    "id": "#11502"
+  },
+  {
+    "direction": "up",
+    "id": "#11503"
+  },
+  {
+    "direction": "up",
+    "id": "#11504"
+  },
+  {
+    "direction": "up",
+    "id": "#11505"
+  },
+  {
+    "payout": 1.78,
+    "direction": "down",
+    "id": "#11506"
+  },
+  {
+    "direction": "down",
+    "id": "#11507"
+  },
+  {
+    "direction": "down",
+    "id": "#11508"
+  },
+  {
+    "direction": "down",
+    "id": "#11509"
+  },
+  {
+    "direction": "up",
+    "id": "#11510"
+  },
+  {
+    "direction": "up",
+    "id": "#11511"
+  },
+  {
+    "direction": "down",
+    "id": "#11512"
+  },
+  {
+    "direction": "down",
+    "id": "#11513"
+  },
+  {
+    "direction": "up",
+    "id": "#11514",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11515",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11516",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11517",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11518",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11519",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11520",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11521",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11522",
+    "lcss": true
+  },
+  {
+    "payout": 1.91,
+    "direction": "up",
+    "id": "#11523",
+    "lcss": true
+  },
+  {
+    "payout": 1.48,
+    "direction": "down",
+    "id": "#11524"
+  },
+  {
+    "direction": "down",
+    "id": "#11525"
+  },
+  {
+    "direction": "down",
+    "id": "#11526"
+  },
+  {
+    "direction": "up",
+    "id": "#11527"
+  },
+  {
+    "direction": "down",
+    "id": "#11528"
+  },
+  {
+    "payout": 2.23,
+    "direction": "up",
+    "id": "#11529"
+  },
+  {
+    "direction": "up",
+    "id": "#11530"
+  },
+  {
+    "direction": "down",
+    "id": "#11531"
+  },
+  {
+    "direction": "up",
+    "id": "#11532"
+  },
+  {
+    "direction": "up",
+    "id": "#11533"
+  },
+  {
+    "direction": "down",
+    "id": "#11534"
+  },
+  {
+    "direction": "down",
+    "id": "#11535"
+  },
+  {
+    "direction": "down",
+    "id": "#11536"
+  },
+  {
+    "direction": "down",
+    "id": "#11537"
+  },
+  {
+    "payout": 2.2,
+    "direction": "up",
+    "id": "#11538"
+  },
+  {
+    "direction": "up",
+    "id": "#11539"
+  },
+  {
+    "direction": "down",
+    "id": "#11540"
+  },
+  {
+    "direction": "down",
+    "id": "#11541"
+  },
+  {
+    "direction": "up",
+    "id": "#11542"
+  },
+  {
+    "direction": "up",
+    "id": "#11543"
+  },
+  {
+    "direction": "up",
+    "id": "#11544"
+  },
+  {
+    "direction": "down",
+    "id": "#11545"
+  },
+  {
+    "direction": "up",
+    "id": "#11546"
+  },
+  {
+    "direction": "down",
+    "id": "#11547"
+  },
+  {
+    "direction": "up",
+    "id": "#11548"
+  },
+  {
+    "direction": "down",
+    "id": "#11549"
+  },
+  {
+    "direction": "up",
+    "id": "#11550"
+  },
+  {
+    "direction": "up",
+    "id": "#11551"
+  },
+  {
+    "direction": "up",
+    "id": "#11552"
+  },
+  {
+    "direction": "down",
+    "id": "#11553"
+  },
+  {
+    "direction": "down",
+    "id": "#11554"
+  },
+  {
+    "direction": "up",
+    "id": "#11555"
+  },
+  {
+    "direction": "down",
+    "id": "#11556"
+  },
+  {
+    "direction": "down",
+    "id": "#11557"
+  },
+  {
+    "direction": "down",
+    "id": "#11558"
+  },
+  {
+    "direction": "down",
+    "id": "#11559"
+  },
+  {
+    "direction": "down",
+    "id": "#11560"
+  },
+  {
+    "payout": 2.27,
+    "direction": "down",
+    "id": "#11561"
+  },
+  {
+    "payout": 1.51,
+    "direction": "up",
+    "id": "#11562"
+  },
+  {
+    "direction": "down",
+    "id": "#11563"
+  },
+  {
+    "direction": "down",
+    "id": "#11564"
+  },
+  {
+    "direction": "up",
+    "id": "#11565"
+  },
+  {
+    "direction": "up",
+    "id": "#11566"
+  },
+  {
+    "payout": 1.63,
+    "direction": "up",
+    "id": "#11567"
+  },
+  {
+    "direction": "down",
+    "id": "#11568"
+  },
+  {
+    "direction": "down",
+    "id": "#11569"
+  },
+  {
+    "direction": "up",
+    "id": "#11570"
+  },
+  {
+    "direction": "down",
+    "id": "#11571",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11572",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11573",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11574",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11575",
+    "lcss": true
+  },
+  {
+    "payout": 1.94,
+    "direction": "down",
+    "id": "#11576",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11577",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11578",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11579",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11580",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11581",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11582",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11583",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11584",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11585",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11586",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11587"
+  },
+  {
+    "direction": "up",
+    "id": "#11588"
+  },
+  {
+    "direction": "up",
+    "id": "#11589"
+  },
+  {
+    "payout": 1.85,
+    "direction": "down",
+    "id": "#11590"
+  },
+  {
+    "direction": "down",
+    "id": "#11591"
+  },
+  {
+    "direction": "down",
+    "id": "#11592"
+  },
+  {
+    "direction": "down",
+    "id": "#11593"
+  },
+  {
+    "direction": "down",
+    "id": "#11594"
+  },
+  {
+    "direction": "up",
+    "id": "#11595"
+  },
+  {
+    "direction": "up",
+    "id": "#11596"
+  },
+  {
+    "direction": "up",
+    "id": "#11597"
+  },
+  {
+    "direction": "up",
+    "id": "#11598"
+  },
+  {
+    "direction": "down",
+    "id": "#11599"
+  },
+  {
+    "direction": "down",
+    "id": "#11600"
+  },
+  {
+    "direction": "down",
+    "id": "#11601"
+  },
+  {
+    "payout": 2.5,
+    "direction": "up",
+    "id": "#11602"
+  },
+  {
+    "direction": "down",
+    "id": "#11603"
+  },
+  {
+    "direction": "up",
+    "id": "#11604"
+  },
+  {
+    "direction": "up",
+    "id": "#11605"
+  },
+  {
+    "direction": "down",
+    "id": "#11606"
+  },
+  {
+    "direction": "down",
+    "id": "#11607"
+  },
+  {
+    "direction": "up",
+    "id": "#11608"
+  },
+  {
+    "direction": "down",
+    "id": "#11609"
+  },
+  {
+    "direction": "up",
+    "id": "#11610"
+  },
+  {
+    "direction": "up",
+    "id": "#11611"
+  },
+  {
+    "direction": "down",
+    "id": "#11612"
+  },
+  {
+    "direction": "up",
+    "id": "#11613"
+  },
+  {
+    "direction": "up",
+    "id": "#11614"
+  },
+  {
+    "direction": "up",
+    "id": "#11615"
+  },
+  {
+    "direction": "down",
+    "id": "#11616",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11617",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11618",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11619",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11620",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11621",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11622",
+    "lcss": true
+  },
+  {
+    "payout": 1.78,
+    "direction": "up",
+    "id": "#11623",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11624",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11625",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11626",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11627",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11628",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11629",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11630",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11631",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11632",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11633",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11634",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11635",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11636",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11637",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11638"
+  },
+  {
+    "direction": "down",
+    "id": "#11639"
+  },
+  {
+    "direction": "up",
+    "id": "#11640"
+  },
+  {
+    "direction": "up",
+    "id": "#11641"
+  },
+  {
+    "direction": "up",
+    "id": "#11642"
+  },
+  {
+    "direction": "down",
+    "id": "#11643"
+  },
+  {
+    "direction": "up",
+    "id": "#11644"
+  },
+  {
+    "direction": "up",
+    "id": "#11645"
+  },
+  {
+    "direction": "up",
+    "id": "#11646"
+  },
+  {
+    "direction": "down",
+    "id": "#11647"
+  },
+  {
+    "direction": "down",
+    "id": "#11648"
+  },
+  {
+    "payout": 2.32,
+    "direction": "down",
+    "id": "#11649"
+  },
+  {
+    "direction": "up",
+    "id": "#11650"
+  },
+  {
+    "direction": "up",
+    "id": "#11651"
+  },
+  {
+    "direction": "down",
+    "id": "#11652"
+  },
+  {
+    "direction": "down",
+    "id": "#11653"
+  },
+  {
+    "direction": "up",
+    "id": "#11654"
+  },
+  {
+    "direction": "down",
+    "id": "#11655"
+  },
+  {
+    "direction": "down",
+    "id": "#11656"
+  },
+  {
+    "payout": 1.64,
+    "direction": "up",
+    "id": "#11657"
+  },
+  {
+    "direction": "down",
+    "id": "#11658"
+  },
+  {
+    "direction": "down",
+    "id": "#11659"
+  },
+  {
+    "direction": "up",
+    "id": "#11660"
+  },
+  {
+    "direction": "down",
+    "id": "#11661",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11662",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11663",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11664",
+    "lcss": true
+  },
+  {
+    "payout": 2.23,
+    "direction": "up",
+    "id": "#11665",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11666",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11667",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11668",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11669",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11670",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11671",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11672"
+  },
+  {
+    "direction": "up",
+    "id": "#11673"
+  },
+  {
+    "direction": "up",
+    "id": "#11674"
+  },
+  {
+    "direction": "down",
+    "id": "#11675"
+  },
+  {
+    "direction": "up",
+    "id": "#11676"
+  },
+  {
+    "direction": "down",
+    "id": "#11677"
+  },
+  {
+    "direction": "up",
+    "id": "#11678"
+  },
+  {
+    "direction": "up",
+    "id": "#11679"
+  },
+  {
+    "direction": "up",
+    "id": "#11680"
+  },
+  {
+    "direction": "down",
+    "id": "#11681"
+  },
+  {
+    "direction": "up",
+    "id": "#11682"
+  },
+  {
+    "direction": "up",
+    "id": "#11683"
+  },
+  {
+    "direction": "up",
+    "id": "#11684"
+  },
+  {
+    "direction": "down",
+    "id": "#11685",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11686",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11687",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11688",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11689",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11690",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11691",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11692",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11693",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11694",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11695",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11696",
+    "lcss": true
+  },
+  {
+    "payout": 1.63,
+    "direction": "up",
+    "id": "#11697",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11698",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11699",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11700",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11701",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11702",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11703",
+    "lcss": true
+  },
+  {
+    "payout": 2.22,
+    "direction": "up",
+    "id": "#11704",
+    "lcss": true
+  },
+  {
+    "payout": 1.66,
+    "direction": "up",
+    "id": "#11705"
+  },
+  {
+    "direction": "up",
+    "id": "#11706"
+  },
+  {
+    "direction": "down",
+    "id": "#11707"
+  },
+  {
+    "direction": "down",
+    "id": "#11708"
+  },
+  {
+    "direction": "up",
+    "id": "#11709"
+  },
+  {
+    "direction": "up",
+    "id": "#11710"
+  },
+  {
+    "direction": "up",
+    "id": "#11711"
+  },
+  {
+    "direction": "up",
+    "id": "#11712"
+  },
+  {
+    "direction": "down",
+    "id": "#11713"
+  },
+  {
+    "direction": "down",
+    "id": "#11714"
+  },
+  {
+    "direction": "down",
+    "id": "#11715"
+  },
+  {
+    "direction": "up",
+    "id": "#11716"
+  },
+  {
+    "direction": "down",
+    "id": "#11717"
+  },
+  {
+    "direction": "down",
+    "id": "#11718"
+  },
+  {
+    "direction": "up",
+    "id": "#11719"
+  },
+  {
+    "direction": "up",
+    "id": "#11720"
+  },
+  {
+    "direction": "down",
+    "id": "#11721"
+  },
+  {
+    "direction": "down",
+    "id": "#11722"
+  },
+  {
+    "direction": "down",
+    "id": "#11723"
+  },
+  {
+    "direction": "down",
+    "id": "#11724"
+  },
+  {
+    "direction": "up",
+    "id": "#11725"
+  },
+  {
+    "direction": "up",
+    "id": "#11726"
+  },
+  {
+    "payout": 1.54,
+    "direction": "up",
+    "id": "#11727"
+  },
+  {
+    "direction": "up",
+    "id": "#11728"
+  },
+  {
+    "direction": "up",
+    "id": "#11729"
+  },
+  {
+    "direction": "down",
+    "id": "#11730"
+  },
+  {
+    "direction": "down",
+    "id": "#11731"
+  },
+  {
+    "direction": "up",
+    "id": "#11732"
+  },
+  {
+    "direction": "down",
+    "id": "#11733"
+  },
+  {
+    "direction": "down",
+    "id": "#11734"
+  },
+  {
+    "direction": "down",
+    "id": "#11735"
+  },
+  {
+    "payout": 2.32,
+    "direction": "up",
+    "id": "#11736"
+  },
+  {
+    "direction": "up",
+    "id": "#11737"
+  },
+  {
+    "direction": "down",
+    "id": "#11738"
+  },
+  {
+    "direction": "up",
+    "id": "#11739"
+  },
+  {
+    "direction": "down",
+    "id": "#11740"
+  },
+  {
+    "direction": "up",
+    "id": "#11741"
+  },
+  {
+    "payout": 1.92,
+    "direction": "up",
+    "id": "#11742"
+  },
+  {
+    "direction": "up",
+    "id": "#11743"
+  },
+  {
+    "direction": "up",
+    "id": "#11744"
+  },
+  {
+    "direction": "down",
+    "id": "#11745"
+  },
+  {
+    "payout": 1.82,
+    "direction": "up",
+    "id": "#11746"
+  },
+  {
+    "direction": "down",
+    "id": "#11747"
+  },
+  {
+    "direction": "up",
+    "id": "#11748"
+  },
+  {
+    "direction": "down",
+    "id": "#11749"
+  },
+  {
+    "direction": "up",
+    "id": "#11750"
+  },
+  {
+    "direction": "up",
+    "id": "#11751"
+  },
+  {
+    "payout": 2.05,
+    "direction": "down",
+    "id": "#11752"
+  },
+  {
+    "direction": "down",
+    "id": "#11753"
+  },
+  {
+    "direction": "up",
+    "id": "#11754",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11755",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11756",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11757",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11758",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11759",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11760",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11761",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11762",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11763",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11764",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11765",
+    "lcss": true
+  },
+  {
+    "payout": 1.84,
+    "direction": "up",
+    "id": "#11766"
+  },
+  {
+    "direction": "up",
+    "id": "#11767"
+  },
+  {
+    "direction": "up",
+    "id": "#11768"
+  },
+  {
+    "direction": "up",
+    "id": "#11769"
+  },
+  {
+    "direction": "down",
+    "id": "#11770"
+  },
+  {
+    "direction": "down",
+    "id": "#11771"
+  },
+  {
+    "direction": "down",
+    "id": "#11772"
+  },
+  {
+    "direction": "up",
+    "id": "#11773"
+  },
+  {
+    "payout": 1.5,
+    "direction": "down",
+    "id": "#11774"
+  },
+  {
+    "direction": "up",
+    "id": "#11775"
+  },
+  {
+    "direction": "down",
+    "id": "#11776",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11777",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11778",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11779",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11780",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11781",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11782",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11783",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11784",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11785",
+    "lcss": true
+  },
+  {
+    "payout": 2.03,
+    "direction": "up",
+    "id": "#11786",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11787",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11788",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11789",
+    "lcss": true
+  },
+  {
+    "payout": 2.15,
+    "direction": "down",
+    "id": "#11790",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11791",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11792",
+    "lcss": true
+  },
+  {
+    "payout": 1.92,
+    "direction": "down",
+    "id": "#11793",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11794",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11795"
+  },
+  {
+    "direction": "down",
+    "id": "#11796"
+  },
+  {
+    "payout": 2.44,
+    "direction": "up",
+    "id": "#11797"
+  },
+  {
+    "direction": "down",
+    "id": "#11798"
+  },
+  {
+    "direction": "down",
+    "id": "#11799"
+  },
+  {
+    "direction": "up",
+    "id": "#11800"
+  },
+  {
+    "direction": "down",
+    "id": "#11801"
+  },
+  {
+    "direction": "down",
+    "id": "#11802"
+  },
+  {
+    "direction": "up",
+    "id": "#11803"
+  },
+  {
+    "direction": "up",
+    "id": "#11804"
+  },
+  {
+    "direction": "down",
+    "id": "#11805"
+  },
+  {
+    "payout": 1.82,
+    "direction": "down",
+    "id": "#11806"
+  },
+  {
+    "direction": "up",
+    "id": "#11807"
+  },
+  {
+    "direction": "down",
+    "id": "#11808"
+  },
+  {
+    "direction": "up",
+    "id": "#11809"
+  },
+  {
+    "direction": "up",
+    "id": "#11810"
+  },
+  {
+    "direction": "down",
+    "id": "#11811"
+  },
+  {
+    "direction": "up",
+    "id": "#11812"
+  },
+  {
+    "direction": "up",
+    "id": "#11813"
+  },
+  {
+    "direction": "up",
+    "id": "#11814",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11815",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11816",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11817",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11818",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11819",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11820",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11821",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11822",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11823",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11824",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11825"
+  },
+  {
+    "direction": "up",
+    "id": "#11826"
+  },
+  {
+    "payout": 2.63,
+    "direction": "up",
+    "id": "#11827"
+  },
+  {
+    "direction": "down",
+    "id": "#11828"
+  },
+  {
+    "direction": "up",
+    "id": "#11829"
+  },
+  {
+    "direction": "up",
+    "id": "#11830"
+  },
+  {
+    "direction": "down",
+    "id": "#11831"
+  },
+  {
+    "direction": "down",
+    "id": "#11832"
+  },
+  {
+    "direction": "down",
+    "id": "#11833"
+  },
+  {
+    "direction": "down",
+    "id": "#11834"
+  },
+  {
+    "direction": "down",
+    "id": "#11835"
+  },
+  {
+    "direction": "down",
+    "id": "#11836"
+  },
+  {
+    "direction": "down",
+    "id": "#11837"
+  },
+  {
+    "direction": "up",
+    "id": "#11838"
+  },
+  {
+    "direction": "down",
+    "id": "#11839"
+  },
+  {
+    "payout": 2.04,
+    "direction": "down",
+    "id": "#11840"
+  },
+  {
+    "direction": "up",
+    "id": "#11841"
+  },
+  {
+    "payout": 1.69,
+    "direction": "down",
+    "id": "#11842"
+  },
+  {
+    "direction": "up",
+    "id": "#11843"
+  },
+  {
+    "payout": 1.9,
+    "direction": "up",
+    "id": "#11844"
+  },
+  {
+    "direction": "down",
+    "id": "#11845"
+  },
+  {
+    "direction": "down",
+    "id": "#11846"
+  },
+  {
+    "direction": "up",
+    "id": "#11847"
+  },
+  {
+    "direction": "down",
+    "id": "#11848"
+  },
+  {
+    "payout": 1.83,
+    "direction": "down",
+    "id": "#11849"
+  },
+  {
+    "direction": "up",
+    "id": "#11850"
+  },
+  {
+    "direction": "up",
+    "id": "#11851"
+  },
+  {
+    "direction": "down",
+    "id": "#11852"
+  },
+  {
+    "direction": "down",
+    "id": "#11853"
+  },
+  {
+    "direction": "up",
+    "id": "#11854"
+  },
+  {
+    "direction": "down",
+    "id": "#11855"
+  },
+  {
+    "direction": "up",
+    "id": "#11856"
+  },
+  {
+    "direction": "up",
+    "id": "#11857"
+  },
+  {
+    "direction": "up",
+    "id": "#11858"
+  },
+  {
+    "direction": "down",
+    "id": "#11859"
+  },
+  {
+    "direction": "up",
+    "id": "#11860"
+  },
+  {
+    "direction": "down",
+    "id": "#11861"
+  },
+  {
+    "direction": "down",
+    "id": "#11862"
+  },
+  {
+    "direction": "down",
+    "id": "#11863"
+  },
+  {
+    "payout": 1.78,
+    "direction": "down",
+    "id": "#11864"
+  },
+  {
+    "payout": 2.02,
+    "direction": "down",
+    "id": "#11865"
+  },
+  {
+    "direction": "down",
+    "id": "#11866"
+  },
+  {
+    "direction": "up",
+    "id": "#11867"
+  },
+  {
+    "direction": "up",
+    "id": "#11868"
+  },
+  {
+    "direction": "up",
+    "id": "#11869"
+  },
+  {
+    "direction": "down",
+    "id": "#11870"
+  },
+  {
+    "payout": 2.17,
+    "direction": "down",
+    "id": "#11871"
+  },
+  {
+    "direction": "down",
+    "id": "#11872"
+  },
+  {
+    "direction": "down",
+    "id": "#11873"
+  },
+  {
+    "payout": 2.02,
+    "direction": "up",
+    "id": "#11874",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11875",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11876",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11877",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11878",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11879",
+    "lcss": true
+  },
+  {
+    "payout": 1.96,
+    "direction": "up",
+    "id": "#11880",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11881",
+    "lcss": true
+  },
+  {
+    "payout": 1.98,
+    "direction": "down",
+    "id": "#11882",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11883",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11884",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11885",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11886",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11887",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11888",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11889",
+    "lcss": true
+  },
+  {
+    "payout": 1.83,
+    "direction": "down",
+    "id": "#11890"
+  },
+  {
+    "direction": "down",
+    "id": "#11891"
+  },
+  {
+    "direction": "down",
+    "id": "#11892",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11893",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11894",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11895",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11896",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11897",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11898",
+    "lcss": true
+  },
+  {
+    "payout": 1.79,
+    "direction": "up",
+    "id": "#11899",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11900",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11901",
+    "lcss": true
+  },
+  {
+    "payout": 1.85,
+    "direction": "down",
+    "id": "#11902",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11903"
+  },
+  {
+    "direction": "up",
+    "id": "#11904"
+  },
+  {
+    "direction": "down",
+    "id": "#11905"
+  },
+  {
+    "direction": "up",
+    "id": "#11906"
+  },
+  {
+    "direction": "up",
+    "id": "#11907"
+  },
+  {
+    "direction": "up",
+    "id": "#11908"
+  },
+  {
+    "direction": "down",
+    "id": "#11909"
+  },
+  {
+    "direction": "up",
+    "id": "#11910"
+  },
+  {
+    "direction": "up",
+    "id": "#11911"
+  },
+  {
+    "direction": "down",
+    "id": "#11912"
+  },
+  {
+    "direction": "down",
+    "id": "#11913"
+  },
+  {
+    "direction": "down",
+    "id": "#11914"
+  },
+  {
+    "direction": "down",
+    "id": "#11915"
+  },
+  {
+    "direction": "down",
+    "id": "#11916"
+  },
+  {
+    "direction": "up",
+    "id": "#11917"
+  },
+  {
+    "direction": "up",
+    "id": "#11918",
+    "lcss": true
+  },
+  {
+    "payout": 1.98,
+    "direction": "down",
+    "id": "#11919",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11920",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11921",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11922",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11923",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11924",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11925",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11926",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11927"
+  },
+  {
+    "direction": "down",
+    "id": "#11928"
+  },
+  {
+    "direction": "up",
+    "id": "#11929"
+  },
+  {
+    "direction": "down",
+    "id": "#11930",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11931",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11932",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11933",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11934",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11935",
+    "lcss": true
+  },
+  {
+    "payout": 1.61,
+    "direction": "down",
+    "id": "#11936",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11937",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11938",
+    "lcss": true
+  },
+  {
+    "payout": 1.92,
+    "direction": "up",
+    "id": "#11939",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11940"
+  },
+  {
+    "direction": "up",
+    "id": "#11941"
+  },
+  {
+    "direction": "up",
+    "id": "#11942"
+  },
+  {
+    "direction": "down",
+    "id": "#11943"
+  },
+  {
+    "direction": "down",
+    "id": "#11944"
+  },
+  {
+    "direction": "down",
+    "id": "#11945"
+  },
+  {
+    "direction": "up",
+    "id": "#11946"
+  },
+  {
+    "direction": "up",
+    "id": "#11947"
+  },
+  {
+    "direction": "up",
+    "id": "#11948"
+  },
+  {
+    "direction": "up",
+    "id": "#11949"
+  },
+  {
+    "direction": "down",
+    "id": "#11950"
+  },
+  {
+    "direction": "up",
+    "id": "#11951",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11952",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11953",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11954",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11955",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11956",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11957",
+    "lcss": true
+  },
+  {
+    "payout": 1.44,
+    "direction": "up",
+    "id": "#11958",
+    "lcss": true
+  },
+  {
+    "payout": 2.01,
+    "direction": "up",
+    "id": "#11959",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11960",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11961",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11962"
+  },
+  {
+    "direction": "up",
+    "id": "#11963"
+  },
+  {
+    "direction": "up",
+    "id": "#11964"
+  },
+  {
+    "direction": "up",
+    "id": "#11965"
+  },
+  {
+    "direction": "up",
+    "id": "#11966",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11967",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11968",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11969",
+    "lcss": true
+  },
+  {
+    "payout": 1.98,
+    "direction": "down",
+    "id": "#11970",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11971",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11972",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11973",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11974",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11975",
+    "lcss": true
+  },
+  {
+    "payout": 1.85,
+    "direction": "down",
+    "id": "#11976",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11977"
+  },
+  {
+    "direction": "down",
+    "id": "#11978"
+  },
+  {
+    "direction": "down",
+    "id": "#11979"
+  },
+  {
+    "direction": "down",
+    "id": "#11980"
+  },
+  {
+    "direction": "up",
+    "id": "#11981"
+  },
+  {
+    "direction": "up",
+    "id": "#11982",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11983",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11984",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11985",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11986",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11987",
+    "lcss": true
+  },
+  {
+    "payout": 2.82,
+    "direction": "up",
+    "id": "#11988",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11989",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11990",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11991",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#11992",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#11993"
+  },
+  {
+    "direction": "down",
+    "id": "#11994"
+  },
+  {
+    "direction": "down",
+    "id": "#11995"
+  },
+  {
+    "direction": "down",
+    "id": "#11996"
+  },
+  {
+    "direction": "up",
+    "id": "#11997"
+  },
+  {
+    "direction": "up",
+    "id": "#11998"
+  },
+  {
+    "payout": 1.62,
+    "direction": "down",
+    "id": "#11999"
+  },
+  {
+    "direction": "up",
+    "id": "#12000"
+  },
+  {
+    "direction": "down",
+    "id": "#12001"
+  },
+  {
+    "direction": "up",
+    "id": "#12002"
+  },
+  {
+    "direction": "up",
+    "id": "#12003"
+  },
+  {
+    "direction": "down",
+    "id": "#12004"
+  },
+  {
+    "direction": "down",
+    "id": "#12005"
+  },
+  {
+    "payout": 1.77,
+    "direction": "up",
+    "id": "#12006"
+  },
+  {
+    "direction": "up",
+    "id": "#12007"
+  },
+  {
+    "direction": "down",
+    "id": "#12008"
+  },
+  {
+    "direction": "up",
+    "id": "#12009"
+  },
+  {
+    "direction": "up",
+    "id": "#12010"
+  },
+  {
+    "direction": "down",
+    "id": "#12011"
+  },
+  {
+    "direction": "up",
+    "id": "#12012"
+  },
+  {
+    "direction": "down",
+    "id": "#12013"
+  },
+  {
+    "direction": "down",
+    "id": "#12014"
+  },
+  {
+    "direction": "up",
+    "id": "#12015"
+  },
+  {
+    "direction": "up",
+    "id": "#12016"
+  },
+  {
+    "direction": "up",
+    "id": "#12017"
+  },
+  {
+    "direction": "up",
+    "id": "#12018"
+  },
+  {
+    "direction": "down",
+    "id": "#12019"
+  },
+  {
+    "direction": "up",
+    "id": "#12020"
+  },
+  {
+    "direction": "down",
+    "id": "#12021",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12022",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12023",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12024",
+    "lcss": true
+  },
+  {
+    "payout": 1.69,
+    "direction": "up",
+    "id": "#12025",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12026",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12027",
+    "lcss": true
+  },
+  {
+    "payout": 1.67,
+    "direction": "down",
+    "id": "#12028",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12029",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12030",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12031",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12032"
+  },
+  {
+    "direction": "up",
+    "id": "#12033"
+  },
+  {
+    "direction": "up",
+    "id": "#12034"
+  },
+  {
+    "direction": "up",
+    "id": "#12035",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12036",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12037",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12038",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12039",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12040",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12041",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12042",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12043",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12044",
+    "lcss": true
+  },
+  {
+    "payout": 2.08,
+    "direction": "up",
+    "id": "#12045",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12046",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12047",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12048",
+    "lcss": true
+  },
+  {
+    "payout": 1.79,
+    "direction": "up",
+    "id": "#12049",
+    "lcss": true
+  },
+  {
+    "payout": 2.17,
+    "direction": "down",
+    "id": "#12050",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12051",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12052",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12053",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12054",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12055",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12056",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12057",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12058",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12059",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12060",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12061",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12062",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12063",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12064",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12065",
+    "lcss": true
+  },
+  {
+    "payout": 1.87,
+    "direction": "up",
+    "id": "#12066"
+  },
+  {
+    "direction": "up",
+    "id": "#12067"
+  },
+  {
+    "direction": "down",
+    "id": "#12068"
+  },
+  {
+    "direction": "down",
+    "id": "#12069"
+  },
+  {
+    "payout": 2.19,
+    "direction": "up",
+    "id": "#12070"
+  },
+  {
+    "direction": "up",
+    "id": "#12071"
+  },
+  {
+    "direction": "down",
+    "id": "#12072"
+  },
+  {
+    "direction": "up",
+    "id": "#12073"
+  },
+  {
+    "direction": "down",
+    "id": "#12074"
+  },
+  {
+    "direction": "up",
+    "id": "#12075"
+  },
+  {
+    "payout": 1.87,
+    "direction": "up",
+    "id": "#12076"
+  },
+  {
+    "direction": "up",
+    "id": "#12077"
+  },
+  {
+    "payout": 1.74,
+    "direction": "up",
+    "id": "#12078"
+  },
+  {
+    "direction": "down",
+    "id": "#12079"
+  },
+  {
+    "direction": "down",
+    "id": "#12080"
+  },
+  {
+    "direction": "down",
+    "id": "#12081"
+  },
+  {
+    "direction": "down",
+    "id": "#12082"
+  },
+  {
+    "direction": "up",
+    "id": "#12083"
+  },
+  {
+    "direction": "down",
+    "id": "#12084"
+  },
+  {
+    "direction": "down",
+    "id": "#12085"
+  },
+  {
+    "payout": 2.36,
+    "direction": "down",
+    "id": "#12086"
+  },
+  {
+    "direction": "up",
+    "id": "#12087"
+  },
+  {
+    "direction": "down",
+    "id": "#12088"
+  },
+  {
+    "direction": "down",
+    "id": "#12089"
+  },
+  {
+    "direction": "down",
+    "id": "#12090"
+  },
+  {
+    "direction": "up",
+    "id": "#12091"
+  },
+  {
+    "payout": 2.06,
+    "direction": "up",
+    "id": "#12092"
+  },
+  {
+    "direction": "up",
+    "id": "#12093"
+  },
+  {
+    "direction": "down",
+    "id": "#12094"
+  },
+  {
+    "direction": "down",
+    "id": "#12095"
+  },
+  {
+    "direction": "up",
+    "id": "#12096"
+  },
+  {
+    "direction": "down",
+    "id": "#12097"
+  },
+  {
+    "direction": "down",
+    "id": "#12098"
+  },
+  {
+    "direction": "down",
+    "id": "#12099"
+  },
+  {
+    "direction": "down",
+    "id": "#12100"
+  },
+  {
+    "direction": "up",
+    "id": "#12101"
+  },
+  {
+    "direction": "up",
+    "id": "#12102"
+  },
+  {
+    "direction": "up",
+    "id": "#12103"
+  },
+  {
+    "direction": "down",
+    "id": "#12104"
+  },
+  {
+    "direction": "down",
+    "id": "#12105"
+  },
+  {
+    "direction": "up",
+    "id": "#12106"
+  },
+  {
+    "direction": "down",
+    "id": "#12107"
+  },
+  {
+    "direction": "down",
+    "id": "#12108"
+  },
+  {
+    "payout": 1.8,
+    "direction": "up",
+    "id": "#12109"
+  },
+  {
+    "payout": 1.73,
+    "direction": "up",
+    "id": "#12110"
+  },
+  {
+    "direction": "down",
+    "id": "#12111"
+  },
+  {
+    "direction": "up",
+    "id": "#12112"
+  },
+  {
+    "direction": "up",
+    "id": "#12113"
+  },
+  {
+    "payout": 1.73,
+    "direction": "up",
+    "id": "#12114",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12115",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12116",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12117",
+    "lcss": true
+  },
+  {
+    "payout": 1.97,
+    "direction": "down",
+    "id": "#12118",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12119",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12120",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12121",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12122",
+    "lcss": true
+  },
+  {
+    "payout": 1.8,
+    "direction": "down",
+    "id": "#12123",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12124",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12125",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12126"
+  },
+  {
+    "direction": "up",
+    "id": "#12127"
+  },
+  {
+    "direction": "down",
+    "id": "#12128"
+  },
+  {
+    "direction": "up",
+    "id": "#12129"
+  },
+  {
+    "direction": "down",
+    "id": "#12130"
+  },
+  {
+    "direction": "down",
+    "id": "#12131"
+  },
+  {
+    "direction": "up",
+    "id": "#12132"
+  },
+  {
+    "direction": "up",
+    "id": "#12133"
+  },
+  {
+    "payout": 3.28,
+    "direction": "down",
+    "id": "#12134"
+  },
+  {
+    "direction": "down",
+    "id": "#12135",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12136",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12137",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12138",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12139",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12140",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12141",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12142",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12143",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12144",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12145",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12146",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12147",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12148"
+  },
+  {
+    "direction": "down",
+    "id": "#12149",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12150",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12151",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12152",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12153",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12154",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12155",
+    "lcss": true
+  },
+  {
+    "payout": 1.69,
+    "direction": "up",
+    "id": "#12156",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12157",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12158",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12159",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12160",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12161",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12162",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12163",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12164"
+  },
+  {
+    "payout": 2.13,
+    "direction": "up",
+    "id": "#12165"
+  },
+  {
+    "direction": "down",
+    "id": "#12166"
+  },
+  {
+    "direction": "down",
+    "id": "#12167"
+  },
+  {
+    "direction": "down",
+    "id": "#12168"
+  },
+  {
+    "direction": "down",
+    "id": "#12169"
+  },
+  {
+    "direction": "down",
+    "id": "#12170"
+  },
+  {
+    "direction": "down",
+    "id": "#12171"
+  },
+  {
+    "direction": "up",
+    "id": "#12172"
+  },
+  {
+    "payout": 1.63,
+    "direction": "down",
+    "id": "#12173"
+  },
+  {
+    "direction": "down",
+    "id": "#12174"
+  },
+  {
+    "direction": "up",
+    "id": "#12175"
+  },
+  {
+    "direction": "down",
+    "id": "#12176"
+  },
+  {
+    "direction": "down",
+    "id": "#12177"
+  },
+  {
+    "direction": "down",
+    "id": "#12178"
+  },
+  {
+    "direction": "down",
+    "id": "#12179"
+  },
+  {
+    "direction": "down",
+    "id": "#12180"
+  },
+  {
+    "direction": "up",
+    "id": "#12181"
+  },
+  {
+    "direction": "down",
+    "id": "#12182"
+  },
+  {
+    "direction": "up",
+    "id": "#12183"
+  },
+  {
+    "direction": "up",
+    "id": "#12184",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12185",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12186",
+    "lcss": true
+  },
+  {
+    "payout": 1.64,
+    "direction": "down",
+    "id": "#12187",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12188",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12189",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12190",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12191",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12192",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12193",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12194",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12195",
+    "lcss": true
+  },
+  {
+    "payout": 2.82,
+    "direction": "up",
+    "id": "#12196",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12197",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12198",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12199"
+  },
+  {
+    "direction": "down",
+    "id": "#12200"
+  },
+  {
+    "direction": "down",
+    "id": "#12201"
+  },
+  {
+    "direction": "up",
+    "id": "#12202"
+  },
+  {
+    "direction": "down",
+    "id": "#12203"
+  },
+  {
+    "direction": "down",
+    "id": "#12204"
+  },
+  {
+    "direction": "up",
+    "id": "#12205"
+  },
+  {
+    "direction": "up",
+    "id": "#12206"
+  },
+  {
+    "direction": "up",
+    "id": "#12207"
+  },
+  {
+    "direction": "down",
+    "id": "#12208"
+  },
+  {
+    "direction": "down",
+    "id": "#12209"
+  },
+  {
+    "direction": "down",
+    "id": "#12210"
+  },
+  {
+    "direction": "up",
+    "id": "#12211"
+  },
+  {
+    "direction": "down",
+    "id": "#12212"
+  },
+  {
+    "direction": "up",
+    "id": "#12213"
+  },
+  {
+    "direction": "up",
+    "id": "#12214"
+  },
+  {
+    "direction": "up",
+    "id": "#12215"
+  },
+  {
+    "direction": "up",
+    "id": "#12216"
+  },
+  {
+    "direction": "down",
+    "id": "#12217"
+  },
+  {
+    "direction": "down",
+    "id": "#12218"
+  },
+  {
+    "direction": "up",
+    "id": "#12219"
+  },
+  {
+    "direction": "down",
+    "id": "#12220"
+  },
+  {
+    "direction": "down",
+    "id": "#12221"
+  },
+  {
+    "direction": "down",
+    "id": "#12222"
+  },
+  {
+    "direction": "down",
+    "id": "#12223"
+  },
+  {
+    "direction": "down",
+    "id": "#12224"
+  },
+  {
+    "direction": "down",
+    "id": "#12225"
+  },
+  {
+    "direction": "down",
+    "id": "#12226"
+  },
+  {
+    "direction": "up",
+    "id": "#12227"
+  },
+  {
+    "payout": 1.83,
+    "direction": "down",
+    "id": "#12228"
+  },
+  {
+    "direction": "up",
+    "id": "#12229"
+  },
+  {
+    "payout": 1.58,
+    "direction": "up",
+    "id": "#12230"
+  },
+  {
+    "direction": "up",
+    "id": "#12231"
+  },
+  {
+    "direction": "down",
+    "id": "#12232"
+  },
+  {
+    "direction": "down",
+    "id": "#12233"
+  },
+  {
+    "direction": "down",
+    "id": "#12234"
+  },
+  {
+    "payout": 1.95,
+    "direction": "down",
+    "id": "#12235"
+  },
+  {
+    "direction": "up",
+    "id": "#12236"
+  },
+  {
+    "direction": "down",
+    "id": "#12237"
+  },
+  {
+    "direction": "up",
+    "id": "#12238"
+  },
+  {
+    "direction": "up",
+    "id": "#12239"
+  },
+  {
+    "direction": "down",
+    "id": "#12240"
+  },
+  {
+    "direction": "down",
+    "id": "#12241"
+  },
+  {
+    "direction": "down",
+    "id": "#12242"
+  },
+  {
+    "direction": "up",
+    "id": "#12243"
+  },
+  {
+    "direction": "up",
+    "id": "#12244"
+  },
+  {
+    "direction": "up",
+    "id": "#12245"
+  },
+  {
+    "direction": "up",
+    "id": "#12246"
+  },
+  {
+    "direction": "down",
+    "id": "#12247",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12248",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12249",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12250",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12251",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12252",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12253",
+    "lcss": true
+  },
+  {
+    "payout": 1.99,
+    "direction": "up",
+    "id": "#12254",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12255",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12256",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12257",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12258",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12259",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12260",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12261",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12262"
+  },
+  {
+    "direction": "up",
+    "id": "#12263"
+  },
+  {
+    "direction": "up",
+    "id": "#12264"
+  },
+  {
+    "direction": "up",
+    "id": "#12265",
+    "lcss": true
+  },
+  {
+    "payout": 1.99,
+    "direction": "down",
+    "id": "#12266",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12267",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12268",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12269",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12270",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12271",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12272",
+    "lcss": true
+  },
+  {
+    "payout": 2.07,
+    "direction": "up",
+    "id": "#12273",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12274",
+    "lcss": true
+  },
+  {
+    "payout": 1.99,
+    "direction": "down",
+    "id": "#12275"
+  },
+  {
+    "direction": "up",
+    "id": "#12276"
+  },
+  {
+    "direction": "down",
+    "id": "#12277"
+  },
+  {
+    "direction": "down",
+    "id": "#12278"
+  },
+  {
+    "direction": "down",
+    "id": "#12279"
+  },
+  {
+    "direction": "up",
+    "id": "#12280"
+  },
+  {
+    "direction": "up",
+    "id": "#12281"
+  },
+  {
+    "payout": 1.68,
+    "direction": "up",
+    "id": "#12282"
+  },
+  {
+    "direction": "down",
+    "id": "#12283"
+  },
+  {
+    "payout": 1.69,
+    "direction": "down",
+    "id": "#12284"
+  },
+  {
+    "payout": 2.4,
+    "direction": "up",
+    "id": "#12285"
+  },
+  {
+    "direction": "down",
+    "id": "#12286"
+  },
+  {
+    "direction": "up",
+    "id": "#12287"
+  },
+  {
+    "direction": "up",
+    "id": "#12288"
+  },
+  {
+    "payout": 1.75,
+    "direction": "down",
+    "id": "#12289"
+  },
+  {
+    "direction": "down",
+    "id": "#12290"
+  },
+  {
+    "direction": "up",
+    "id": "#12291"
+  },
+  {
+    "direction": "up",
+    "id": "#12292"
+  },
+  {
+    "direction": "up",
+    "id": "#12293"
+  },
+  {
+    "direction": "down",
+    "id": "#12294"
+  },
+  {
+    "direction": "up",
+    "id": "#12295"
+  },
+  {
+    "direction": "down",
+    "id": "#12296"
+  },
+  {
+    "direction": "down",
+    "id": "#12297"
+  },
+  {
+    "direction": "up",
+    "id": "#12298"
+  },
+  {
+    "direction": "up",
+    "id": "#12299"
+  },
+  {
+    "direction": "up",
+    "id": "#12300"
+  },
+  {
+    "direction": "up",
+    "id": "#12301"
+  },
+  {
+    "direction": "up",
+    "id": "#12302"
+  },
+  {
+    "payout": 1.67,
+    "direction": "up",
+    "id": "#12303"
+  },
+  {
+    "payout": 1.79,
+    "direction": "up",
+    "id": "#12304"
+  },
+  {
+    "direction": "up",
+    "id": "#12305"
+  },
+  {
+    "direction": "up",
+    "id": "#12306"
+  },
+  {
+    "direction": "up",
+    "id": "#12307"
+  },
+  {
+    "direction": "down",
+    "id": "#12308"
+  },
+  {
+    "direction": "up",
+    "id": "#12309"
+  },
+  {
+    "payout": 1.72,
+    "direction": "down",
+    "id": "#12310"
+  },
+  {
+    "direction": "up",
+    "id": "#12311"
+  },
+  {
+    "direction": "down",
+    "id": "#12312"
+  },
+  {
+    "direction": "down",
+    "id": "#12313"
+  },
+  {
+    "payout": 2.69,
+    "direction": "up",
+    "id": "#12314"
+  },
+  {
+    "direction": "up",
+    "id": "#12315"
+  },
+  {
+    "payout": 2.28,
+    "direction": "up",
+    "id": "#12316"
+  },
+  {
+    "direction": "up",
+    "id": "#12317"
+  },
+  {
+    "direction": "up",
+    "id": "#12318"
+  },
+  {
+    "direction": "down",
+    "id": "#12319"
+  },
+  {
+    "direction": "down",
+    "id": "#12320"
+  },
+  {
+    "payout": 2.11,
+    "direction": "up",
+    "id": "#12321"
+  },
+  {
+    "payout": 1.88,
+    "direction": "down",
+    "id": "#12322"
+  },
+  {
+    "direction": "down",
+    "id": "#12323"
+  },
+  {
+    "direction": "up",
+    "id": "#12324"
+  },
+  {
+    "direction": "down",
+    "id": "#12325"
+  },
+  {
+    "direction": "up",
+    "id": "#12326"
+  },
+  {
+    "direction": "up",
+    "id": "#12327"
+  },
+  {
+    "payout": 1.54,
+    "direction": "down",
+    "id": "#12328"
+  },
+  {
+    "direction": "down",
+    "id": "#12329"
+  },
+  {
+    "direction": "down",
+    "id": "#12330"
+  },
+  {
+    "direction": "down",
+    "id": "#12331"
+  },
+  {
+    "direction": "up",
+    "id": "#12332"
+  },
+  {
+    "direction": "down",
+    "id": "#12333"
+  },
+  {
+    "direction": "down",
+    "id": "#12334"
+  },
+  {
+    "direction": "up",
+    "id": "#12335",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12336",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12337",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12338",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12339",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12340",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12341",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12342",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12343",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12344",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12345"
+  },
+  {
+    "direction": "up",
+    "id": "#12346"
+  },
+  {
+    "direction": "down",
+    "id": "#12347"
+  },
+  {
+    "payout": 2.38,
+    "direction": "up",
+    "id": "#12348"
+  },
+  {
+    "direction": "down",
+    "id": "#12349"
+  },
+  {
+    "direction": "up",
+    "id": "#12350"
+  },
+  {
+    "direction": "up",
+    "id": "#12351"
+  },
+  {
+    "direction": "up",
+    "id": "#12352"
+  },
+  {
+    "direction": "up",
+    "id": "#12353",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12354",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12355",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12356",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12357",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12358",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12359",
+    "lcss": true
+  },
+  {
+    "payout": 2.14,
+    "direction": "down",
+    "id": "#12360",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12361",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12362",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12363"
+  },
+  {
+    "direction": "down",
+    "id": "#12364"
+  },
+  {
+    "direction": "down",
+    "id": "#12365"
+  },
+  {
+    "direction": "down",
+    "id": "#12366"
+  },
+  {
+    "direction": "down",
+    "id": "#12367"
+  },
+  {
+    "direction": "down",
+    "id": "#12368"
+  },
+  {
+    "direction": "down",
+    "id": "#12369"
+  },
+  {
+    "direction": "down",
+    "id": "#12370"
+  },
+  {
+    "direction": "down",
+    "id": "#12371"
+  },
+  {
+    "direction": "down",
+    "id": "#12372"
+  },
+  {
+    "direction": "down",
+    "id": "#12373"
+  },
+  {
+    "direction": "up",
+    "id": "#12374"
+  },
+  {
+    "direction": "down",
+    "id": "#12375"
+  },
+  {
+    "direction": "down",
+    "id": "#12376"
+  },
+  {
+    "direction": "up",
+    "id": "#12377"
+  },
+  {
+    "payout": 1.65,
+    "direction": "down",
+    "id": "#12378"
+  },
+  {
+    "direction": "down",
+    "id": "#12379"
+  },
+  {
+    "direction": "down",
+    "id": "#12380"
+  },
+  {
+    "direction": "down",
+    "id": "#12381"
+  },
+  {
+    "direction": "up",
+    "id": "#12382"
+  },
+  {
+    "direction": "down",
+    "id": "#12383"
+  },
+  {
+    "payout": 2.08,
+    "direction": "down",
+    "id": "#12384"
+  },
+  {
+    "direction": "down",
+    "id": "#12385"
+  },
+  {
+    "direction": "up",
+    "id": "#12386"
+  },
+  {
+    "direction": "down",
+    "id": "#12387"
+  },
+  {
+    "direction": "down",
+    "id": "#12388"
+  },
+  {
+    "direction": "up",
+    "id": "#12389"
+  },
+  {
+    "direction": "down",
+    "id": "#12390"
+  },
+  {
+    "payout": 1.81,
+    "direction": "up",
+    "id": "#12391"
+  },
+  {
+    "direction": "up",
+    "id": "#12392"
+  },
+  {
+    "direction": "up",
+    "id": "#12393"
+  },
+  {
+    "direction": "down",
+    "id": "#12394"
+  },
+  {
+    "direction": "down",
+    "id": "#12395"
+  },
+  {
+    "direction": "down",
+    "id": "#12396"
+  },
+  {
+    "direction": "up",
+    "id": "#12397"
+  },
+  {
+    "direction": "up",
+    "id": "#12398"
+  },
+  {
+    "direction": "down",
+    "id": "#12399"
+  },
+  {
+    "direction": "up",
+    "id": "#12400"
+  },
+  {
+    "payout": 2.55,
+    "direction": "up",
+    "id": "#12401"
+  },
+  {
+    "direction": "up",
+    "id": "#12402"
+  },
+  {
+    "direction": "up",
+    "id": "#12403"
+  },
+  {
+    "direction": "down",
+    "id": "#12404"
+  },
+  {
+    "direction": "up",
+    "id": "#12405"
+  },
+  {
+    "direction": "up",
+    "id": "#12406"
+  },
+  {
+    "direction": "up",
+    "id": "#12407"
+  },
+  {
+    "payout": 1.8,
+    "direction": "up",
+    "id": "#12408"
+  },
+  {
+    "direction": "up",
+    "id": "#12409"
+  },
+  {
+    "direction": "up",
+    "id": "#12410"
+  },
+  {
+    "direction": "up",
+    "id": "#12411"
+  },
+  {
+    "payout": 1.68,
+    "direction": "up",
+    "id": "#12412"
+  },
+  {
+    "direction": "down",
+    "id": "#12413"
+  },
+  {
+    "direction": "down",
+    "id": "#12414"
+  },
+  {
+    "direction": "down",
+    "id": "#12415"
+  },
+  {
+    "direction": "up",
+    "id": "#12416"
+  },
+  {
+    "direction": "up",
+    "id": "#12417"
+  },
+  {
+    "direction": "up",
+    "id": "#12418"
+  },
+  {
+    "direction": "up",
+    "id": "#12419"
+  },
+  {
+    "direction": "down",
+    "id": "#12420"
+  },
+  {
+    "direction": "down",
+    "id": "#12421"
+  },
+  {
+    "direction": "down",
+    "id": "#12422"
+  },
+  {
+    "direction": "up",
+    "id": "#12423"
+  },
+  {
+    "direction": "down",
+    "id": "#12424"
+  },
+  {
+    "direction": "down",
+    "id": "#12425"
+  },
+  {
+    "payout": 2.6,
+    "direction": "up",
+    "id": "#12426"
+  },
+  {
+    "direction": "up",
+    "id": "#12427"
+  },
+  {
+    "direction": "up",
+    "id": "#12428"
+  },
+  {
+    "direction": "up",
+    "id": "#12429"
+  },
+  {
+    "direction": "up",
+    "id": "#12430"
+  },
+  {
+    "direction": "up",
+    "id": "#12431"
+  },
+  {
+    "direction": "down",
+    "id": "#12432"
+  },
+  {
+    "direction": "down",
+    "id": "#12433"
+  },
+  {
+    "direction": "down",
+    "id": "#12434"
+  },
+  {
+    "direction": "down",
+    "id": "#12435"
+  },
+  {
+    "payout": 1.72,
+    "direction": "up",
+    "id": "#12436"
+  },
+  {
+    "direction": "down",
+    "id": "#12437"
+  },
+  {
+    "direction": "up",
+    "id": "#12438"
+  },
+  {
+    "direction": "up",
+    "id": "#12439"
+  },
+  {
+    "direction": "down",
+    "id": "#12440"
+  },
+  {
+    "direction": "down",
+    "id": "#12441"
+  },
+  {
+    "direction": "up",
+    "id": "#12442"
+  },
+  {
+    "direction": "down",
+    "id": "#12443"
+  },
+  {
+    "direction": "down",
+    "id": "#12444"
+  },
+  {
+    "direction": "up",
+    "id": "#12445"
+  },
+  {
+    "direction": "up",
+    "id": "#12446"
+  },
+  {
+    "direction": "down",
+    "id": "#12447"
+  },
+  {
+    "direction": "up",
+    "id": "#12448"
+  },
+  {
+    "direction": "up",
+    "id": "#12449"
+  },
+  {
+    "direction": "down",
+    "id": "#12450"
+  },
+  {
+    "direction": "down",
+    "id": "#12451"
+  },
+  {
+    "direction": "down",
+    "id": "#12452"
+  },
+  {
+    "direction": "down",
+    "id": "#12453"
+  },
+  {
+    "direction": "up",
+    "id": "#12454"
+  },
+  {
+    "direction": "down",
+    "id": "#12455"
+  },
+  {
+    "direction": "down",
+    "id": "#12456",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12457",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12458",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12459",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12460",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12461",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12462",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12463",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12464",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12465",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12466",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12467",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12468",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12469",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12470",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12471",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12472",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12473",
+    "lcss": true
+  },
+  {
+    "direction": "down",
+    "id": "#12474",
+    "lcss": true
+  },
+  {
+    "direction": "up",
+    "id": "#12475",
+    "lcss": true
+  },
+  {
+    "payout": 1.63,
+    "direction": "down",
+    "id": "#12476",
+    "lcss": true
+  },
+  {
+    "payout": 2.73,
+    "direction": "up",
+    "id": "#12477",
+    "lcss": true
+  },
+  {
+    "payout": 1.88,
+    "direction": "down",
+    "id": "#12478",
+    "lcss": true
+  },
+  {
+    "payout": 3.34,
+    "direction": "up",
+    "id": "#12479",
+    "lcss": true
+  },
+  {
+    "payout": 1.72,
+    "direction": "down",
+    "id": "#12480",
+    "lcss": true
+  },
+  {
+    "payout": 1.98,
+    "direction": "up",
+    "id": "#12481",
+    "lcss": true
+  },
+  {
+    "payout": 2.19,
+    "direction": "down",
+    "id": "#12482",
+    "lcss": true
+  },
+  {
+    "payout": 2.35,
+    "direction": "down",
+    "id": "#12483",
+    "lcss": true
+  },
+  {
+    "payout": 1.64,
+    "direction": "down",
+    "id": "#12484",
+    "lcss": true
+  },
+  {
+    "payout": 1.91,
+    "direction": "down",
+    "id": "#12485",
+    "lcss": true
+  },
+  {
+    "payout": 2.02,
+    "direction": "down",
+    "id": "#12486",
+    "lcss": true
+  },
+  {
+    "payout": 2.13,
+    "direction": "up",
+    "id": "#12487",
+    "lcss": true
+  },
+  {
+    "payout": 1.71,
+    "direction": "down",
+    "id": "#12488",
+    "lcss": true
+  },
+  {
+    "payout": 1.93,
+    "direction": "down",
+    "id": "#12489"
+  },
+  {
+    "payout": 1.66,
+    "direction": "down",
+    "id": "#12490"
+  },
+  {
+    "payout": 2.16,
+    "direction": "up",
+    "id": "#12491"
+  },
+  {
+    "payout": 2.39,
+    "direction": "down",
+    "id": "#12492"
+  },
+  {
+    "payout": 2.43,
+    "direction": "up",
+    "id": "#12493"
+  },
+  {
+    "payout": 1.68,
+    "direction": "down",
+    "id": "#12494"
+  },
+  {
+    "payout": 2.07,
+    "direction": "up",
+    "id": "#12495"
+  },
+  {
+    "payout": 1.64,
+    "direction": "up",
+    "id": "#12496"
+  },
+  {
+    "payout": 2.09,
+    "direction": "down",
+    "id": "#12497"
+  },
+  {
+    "payout": 2.69,
+    "direction": "up",
+    "id": "#12498"
+  },
+  {
+    "payout": 1.76,
+    "direction": "down",
+    "id": "#12499"
+  },
+  {
+    "payout": 2.22,
+    "direction": "up",
+    "id": "#12500"
+  },
+  {
+    "payout": 2.18,
+    "direction": "down",
+    "id": "#12501"
+  },
+  {
+    "payout": 1.96,
+    "direction": "down",
+    "id": "#12502"
+  },
+  {
+    "payout": 2.32,
+    "direction": "down",
+    "id": "#12503"
+  },
+  {
+    "payout": 1.76,
+    "direction": "down",
+    "id": "#12504"
+  },
+  {
+    "payout": 2.02,
+    "direction": "down",
+    "id": "#12505"
+  },
+  {
+    "payout": 2.06,
+    "direction": "up",
+    "id": "#12506"
+  },
+  {
+    "payout": 1.97,
+    "direction": "up",
+    "id": "#12507"
+  },
+  {
+    "payout": 1.78,
+    "direction": "up",
+    "id": "#12508"
+  },
+  {
+    "payout": 1.69,
+    "direction": "up",
+    "id": "#12509"
+  },
+  {
+    "payout": 2,
+    "direction": "up",
+    "id": "#12510"
+  },
+  {
+    "payout": 1.61,
+    "direction": "up",
+    "id": "#12511"
+  },
+  {
+    "payout": 1.68,
+    "direction": "down",
+    "id": "#12512"
+  },
+  {
+    "payout": 1.95,
+    "direction": "down",
+    "id": "#12513"
+  },
+  {
+    "payout": 2.38,
+    "direction": "up",
+    "id": "#12514"
+  },
+  {
+    "payout": 1.72,
+    "direction": "up",
+    "id": "#12515"
+  },
+  {
+    "payout": 1.69,
+    "direction": "up",
+    "id": "#12516"
+  },
+  {
+    "payout": 2.27,
+    "direction": "down",
+    "id": "#12517"
+  },
+  {
+    "payout": 2.02,
+    "direction": "up",
+    "id": "#12518"
+  },
+  {
+    "payout": 1.55,
+    "direction": "up",
+    "id": "#12519"
+  },
+  {
+    "payout": 1.83,
+    "direction": "down",
+    "id": "#12520"
+  },
+  {
+    "payout": 1.58,
+    "direction": "up",
+    "id": "#12521"
+  },
+  {
+    "payout": 1.74,
+    "direction": "down",
+    "id": "#12522"
+  },
+  {
+    "payout": 1.92,
+    "direction": "down",
+    "id": "#12523"
+  },
+  {
+    "payout": 1.74,
+    "direction": "down",
+    "id": "#12524"
+  },
+  {
+    "payout": 2.6,
+    "direction": "down",
+    "id": "#12525"
+  },
+  {
+    "payout": 2.09,
+    "direction": "up",
+    "id": "#12526"
+  },
+  {
+    "payout": 2.32,
+    "direction": "down",
+    "id": "#12527"
+  },
+  {
+    "payout": 2.08,
+    "direction": "up",
+    "id": "#12528"
+  },
+  {
+    "payout": 2.38,
+    "direction": "down",
+    "id": "#12529"
+  },
+  {
+    "payout": 2.51,
+    "direction": "down",
+    "id": "#12530"
+  },
+  {
+    "payout": 1.83,
+    "direction": "up",
+    "id": "#12531"
+  },
+  {
+    "payout": 2.2,
+    "direction": "down",
+    "id": "#12532"
+  },
+  {
+    "payout": 1.95,
+    "direction": "up",
+    "id": "#12533"
+  },
+  {
+    "payout": 2.01,
+    "direction": "up",
+    "id": "#12534"
+  },
+  {
+    "payout": 1.79,
+    "direction": "up",
+    "id": "#12535"
+  },
+  {
+    "payout": 1.97,
+    "direction": "up",
+    "id": "#12536"
+  },
+  {
+    "direction": "down",
+    "id": "#12537"
+  },
+  {
+    "payout": 1.83,
+    "direction": "up",
+    "id": "#13573"
+  },
+  {
+    "direction": "down",
+    "id": "#13574"
+  }
+]
